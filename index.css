@@ -1,0 +1,17 @@
+#title{
+    color:red;
+    text-align: center;
+}
+
+ul {
+    border: 10px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+ul li{
+    margin-right: 30px;
+    list-style: none;
+    
+}
